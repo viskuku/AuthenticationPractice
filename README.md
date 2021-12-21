@@ -48,3 +48,6 @@ JWT Authentication
             b. //Identity - Add Identity
             c. //Authentication  - Adding Authentication, use JWT Authentication Scheme
             d. //Adding Jwt Bearer - TokenValidationParameters, SymmetricSecurityKey
+            
+            
+   Reference : https://www.youtube.com/watch?v=AseqiZonhG0&list=PLFKlnjWl05Ixes4iNyaFSKqOl9rbgj0MW&index=6
